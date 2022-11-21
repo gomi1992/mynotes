@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "cdfcc58dcc037a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "81bdc34927ac53b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03744f54220b69d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16ae8e0fd26717cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ba0f4269dbab9c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "280cdf773d552fe6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2fb5522adb163db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2281d7fb8a161e90",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e254ccadae754cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8474e7d40bd1dc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d7d0f726e51480a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc17d094a62f702e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c77c07f2f952b1f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f65136a44ec92681",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "03744f54220b69d7",
+  "lastOpenFiles": [
+    "笔记/永久笔记/2020归档/202003231421 飞控任务调度.md",
+    "笔记/永久笔记/2020归档/202003241359 电调协议dshot.md",
+    "笔记/永久笔记/2020归档/202003251457 桌面应用开发.md",
+    "笔记/永久笔记/2020归档/202003261240 接收机协议_黑羊与sbus.md",
+    "笔记/永久笔记/2020归档/202003211700 technical_writing part2.md",
+    "笔记/永久笔记/2020归档/202003181504 mynote.md",
+    "笔记/永久笔记/2020归档/202003191327 technical_writing part1.md",
+    "202211212052.md",
+    "笔记/文献笔记/schedule.excalidraw",
+    "2022-11-21.md"
+  ]
+}
