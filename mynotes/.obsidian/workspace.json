@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80789d3e1230b8d7",
+        "id": "41d3ef4265416997",
         "type": "tabs",
         "children": [
           {
-            "id": "2820b9315fbddad5",
+            "id": "14b56460341f20e8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2820b9315fbddad5",
+  "active": "280cdf773d552fe6",
   "lastOpenFiles": [
-    "99-Attachment/assets/1670748552-dfd16a18d3e42a2414469de8d8430e41.gif",
-    "10-TODO/2022-12-11-DropIt-Personal-Assistant-to-Automatically-Manage-Your-Files.md",
-    "笔记/永久笔记/2021归档/202110171917 自家网络配置.md",
-    "99-Attachment/Pasted image 20221122200037.png",
-    "笔记/永久笔记/202206122041 openwrt 单线 vlan.md",
-    "笔记/文献笔记/202207252100 游戏开发者与发行商.md",
-    "笔记/永久笔记/202202131541 Zlibrary.md",
-    "笔记/永久笔记/202210211000 redis3.0学习.md",
-    "笔记/永久笔记/202208061625 为什么软件发行商不多？.md",
-    "笔记/永久笔记/202206122042 度小镜恢复出厂设置.md"
+    "10-TODO/20221211-Tweet-Photo-got-acquired.md",
+    "99-Attachment/assets/1670749497-e696ac27bbfcf33529379f941d98a073.jpg",
+    "99-Attachment/assets/1670749497-cb0b390fc770b770163ef0482aaf5d81.jpg",
+    "99-Attachment/assets/1670749497-b528a6d65d7e442467320459673d1193.jpg",
+    "99-Attachment/assets/1670749497-a6e46fb5fae8da9e2703a0d4e6d66da4.jpg",
+    "99-Attachment/assets/1670749497-81359ddb907a416cb35e7ede71104e38.png",
+    "99-Attachment/assets/1670749497-187f1b881e8a4ee7c68a55a0dad1f96c.png",
+    "99-Attachment/assets/1670749497-98bccf130d0e5a0c0e23ecf1eac2bbbc.png",
+    "99-Attachment/assets/1670749497-4b18c1085cc7b23731e2820888a9f34e.png",
+    "99-Attachment/assets/1670749497-3c3d47ab9183571536481bdae39662fd.png"
   ]
 }
