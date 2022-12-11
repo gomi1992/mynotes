@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41d3ef4265416997",
+        "id": "95370eea1427d5b7",
         "type": "tabs",
         "children": [
           {
-            "id": "14b56460341f20e8",
+            "id": "c258ce27b0991745",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -130,6 +130,7 @@
   },
   "active": "280cdf773d552fe6",
   "lastOpenFiles": [
+    "99-Attachment/assets/1670749497-ac5cbafc314c1500bcf65f0aadde7a51.svg",
     "10-TODO/20221211-Tweet-Photo-got-acquired.md",
     "99-Attachment/assets/1670749497-e696ac27bbfcf33529379f941d98a073.jpg",
     "99-Attachment/assets/1670749497-cb0b390fc770b770163ef0482aaf5d81.jpg",
@@ -138,7 +139,6 @@
     "99-Attachment/assets/1670749497-81359ddb907a416cb35e7ede71104e38.png",
     "99-Attachment/assets/1670749497-187f1b881e8a4ee7c68a55a0dad1f96c.png",
     "99-Attachment/assets/1670749497-98bccf130d0e5a0c0e23ecf1eac2bbbc.png",
-    "99-Attachment/assets/1670749497-4b18c1085cc7b23731e2820888a9f34e.png",
-    "99-Attachment/assets/1670749497-3c3d47ab9183571536481bdae39662fd.png"
+    "99-Attachment/assets/1670749497-4b18c1085cc7b23731e2820888a9f34e.png"
   ]
 }
