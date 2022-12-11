@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e63ed15ac583f24e",
+        "id": "80789d3e1230b8d7",
         "type": "tabs",
         "children": [
           {
-            "id": "41968b12318d2d5e",
+            "id": "2820b9315fbddad5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "41968b12318d2d5e",
+  "active": "2820b9315fbddad5",
   "lastOpenFiles": [
+    "99-Attachment/assets/1670748552-dfd16a18d3e42a2414469de8d8430e41.gif",
+    "10-TODO/2022-12-11-DropIt-Personal-Assistant-to-Automatically-Manage-Your-Files.md",
+    "笔记/永久笔记/2021归档/202110171917 自家网络配置.md",
+    "99-Attachment/Pasted image 20221122200037.png",
+    "笔记/永久笔记/202206122041 openwrt 单线 vlan.md",
+    "笔记/文献笔记/202207252100 游戏开发者与发行商.md",
     "笔记/永久笔记/202202131541 Zlibrary.md",
     "笔记/永久笔记/202210211000 redis3.0学习.md",
     "笔记/永久笔记/202208061625 为什么软件发行商不多？.md",
-    "笔记/永久笔记/202206122042 度小镜恢复出厂设置.md",
-    "笔记/永久笔记/202206122041 openwrt 单线 vlan.md",
-    "笔记/永久笔记/202203071947 powerdesigner自动生成时修改外键名称.md",
-    "笔记/永久笔记/2021归档/202111162000 我和树莓派.md",
-    "笔记/永久笔记/2021归档/202112021940 什么是好的idea.md",
-    "笔记/永久笔记/2021归档/202111282000 事业单位 总结撰写.md",
-    "笔记/永久笔记/2021归档/202102221718 阿里云OSS.md"
+    "笔记/永久笔记/202206122042 度小镜恢复出厂设置.md"
   ]
 }
