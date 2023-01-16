@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bd44d7001bd0db3f",
+        "id": "0311016b8121a292",
         "type": "tabs",
         "children": [
           {
-            "id": "3544995f8f5b4218",
+            "id": "7ac9806234516a9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-TODO/20230112173032-如何阅读一份代码.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-TODO/20230112173032-如何阅读一份代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-TODO/20230112173032-如何阅读一份代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10-TODO/20230112173032-如何阅读一份代码.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,17 +152,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3544995f8f5b4218",
+  "active": "7ac9806234516a9f",
   "lastOpenFiles": [
+    "笔记/工具集.md",
+    "10-TODO/20230112173032-如何阅读一份代码.md",
     "10-TODO/20230104192000-周刊第八期-如何应对公开错误.md",
     "10-TODO/20230104191000-蒙特卡洛树搜索-以蛮力对抗智慧.md",
     "10-TODO/20221211000000-Tweet-Photo-got-acquired.md",
     "10-TODO/20230104-Using-the-Monte-Carlo-Tree-Search-Algorithm-in-an-AI-to-Beat-2048-and-other-games.md",
-    "笔记/工具集.md",
     "99-Attachment/assets/1670749497-ac5cbafc314c1500bcf65f0aadde7a51.svg",
     "99-Attachment/assets/1670749497-e696ac27bbfcf33529379f941d98a073.jpg",
     "99-Attachment/assets/1670749497-cb0b390fc770b770163ef0482aaf5d81.jpg",
-    "99-Attachment/assets/1670749497-b528a6d65d7e442467320459673d1193.jpg",
-    "99-Attachment/assets/1670749497-a6e46fb5fae8da9e2703a0d4e6d66da4.jpg"
+    "99-Attachment/assets/1670749497-b528a6d65d7e442467320459673d1193.jpg"
   ]
 }
