@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0311016b8121a292",
+        "id": "5860a2288b7df072",
         "type": "tabs",
         "children": [
           {
-            "id": "7ac9806234516a9f",
+            "id": "423a8cfa2f375d69",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,8 +152,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7ac9806234516a9f",
+  "active": "423a8cfa2f375d69",
   "lastOpenFiles": [
+    "10-TODO/20230117155530-提问比回答更重要-如何提出一个好问题.md",
     "笔记/工具集.md",
     "10-TODO/20230112173032-如何阅读一份代码.md",
     "10-TODO/20230104192000-周刊第八期-如何应对公开错误.md",
@@ -162,7 +163,6 @@
     "10-TODO/20230104-Using-the-Monte-Carlo-Tree-Search-Algorithm-in-an-AI-to-Beat-2048-and-other-games.md",
     "99-Attachment/assets/1670749497-ac5cbafc314c1500bcf65f0aadde7a51.svg",
     "99-Attachment/assets/1670749497-e696ac27bbfcf33529379f941d98a073.jpg",
-    "99-Attachment/assets/1670749497-cb0b390fc770b770163ef0482aaf5d81.jpg",
-    "99-Attachment/assets/1670749497-b528a6d65d7e442467320459673d1193.jpg"
+    "99-Attachment/assets/1670749497-cb0b390fc770b770163ef0482aaf5d81.jpg"
   ]
 }
