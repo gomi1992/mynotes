@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5860a2288b7df072",
+        "id": "a064d2c702da9b55",
         "type": "tabs",
         "children": [
           {
-            "id": "423a8cfa2f375d69",
+            "id": "18673e772c6ea859",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,17 +152,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "423a8cfa2f375d69",
+  "active": "18673e772c6ea859",
   "lastOpenFiles": [
-    "10-TODO/20230117155530-提问比回答更重要-如何提出一个好问题.md",
+    "10-TODO/20230215202838-这名-业余-程序员-曾用50张1080Ti对抗癌症.md",
     "笔记/工具集.md",
+    "10-TODO/20230117155530-提问比回答更重要-如何提出一个好问题.md",
     "10-TODO/20230112173032-如何阅读一份代码.md",
     "10-TODO/20230104192000-周刊第八期-如何应对公开错误.md",
     "10-TODO/20230104191000-蒙特卡洛树搜索-以蛮力对抗智慧.md",
     "10-TODO/20221211000000-Tweet-Photo-got-acquired.md",
     "10-TODO/20230104-Using-the-Monte-Carlo-Tree-Search-Algorithm-in-an-AI-to-Beat-2048-and-other-games.md",
     "99-Attachment/assets/1670749497-ac5cbafc314c1500bcf65f0aadde7a51.svg",
-    "99-Attachment/assets/1670749497-e696ac27bbfcf33529379f941d98a073.jpg",
-    "99-Attachment/assets/1670749497-cb0b390fc770b770163ef0482aaf5d81.jpg"
+    "99-Attachment/assets/1670749497-e696ac27bbfcf33529379f941d98a073.jpg"
   ]
 }
