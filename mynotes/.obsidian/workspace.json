@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "927fd4ba7d50bc00",
+        "id": "748dacc170de2816",
         "type": "tabs",
         "children": [
           {
-            "id": "d77b18d006382a23",
+            "id": "2ec93a26e51ddaa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-TODO/20221211000000-Tweet-Photo-got-acquired.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-TODO/20221211000000-Tweet-Photo-got-acquired.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-TODO/20221211000000-Tweet-Photo-got-acquired.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10-TODO/20221211000000-Tweet-Photo-got-acquired.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,8 +152,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d77b18d006382a23",
+  "active": "2ec93a26e51ddaa9",
   "lastOpenFiles": [
+    "10-TODO/20230215204904-游戏里的无线电很酷-手把手教你取得无线电执照-_百家争鸣-游民星空.md",
+    "10-TODO/20221211000000-Tweet-Photo-got-acquired.md",
     "10-TODO/20230215204456-Deployment-and-infrastructure-for-a-bootstrapped-webapp-with-150k-monthly-visits.md",
     "10-TODO/20230104000000-Using-the-Monte-Carlo-Tree-Search-Algorithm-in-an-AI-to-Beat-2048-and-other-games.md",
     "10-TODO/20230215202838-这名-业余-程序员-曾用50张1080Ti对抗癌症.md",
@@ -169,8 +163,6 @@
     "10-TODO/20230117155530-提问比回答更重要-如何提出一个好问题.md",
     "10-TODO/20230112173032-如何阅读一份代码.md",
     "10-TODO/20230104192000-周刊第八期-如何应对公开错误.md",
-    "10-TODO/20230104191000-蒙特卡洛树搜索-以蛮力对抗智慧.md",
-    "10-TODO/20221211000000-Tweet-Photo-got-acquired.md",
-    "99-Attachment/assets/1670749497-ac5cbafc314c1500bcf65f0aadde7a51.svg"
+    "10-TODO/20230104191000-蒙特卡洛树搜索-以蛮力对抗智慧.md"
   ]
 }
