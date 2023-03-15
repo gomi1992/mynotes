@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b935bd39f613b05",
+        "id": "77bb16e863efc835",
         "type": "tabs",
         "children": [
           {
-            "id": "2c68fbbd7f15edf2",
+            "id": "991d660cd207d7ce",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,17 +152,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c68fbbd7f15edf2",
+  "active": "991d660cd207d7ce",
   "lastOpenFiles": [
-    "10-TODO/20230218134051-如何阅读代码_IT新闻_博客园.md",
-    "10-TODO/20230218133901-Serverless-实战-打造个人阅读追踪系统.md",
-    "10-TODO/20230218133831-迈出为Linux贡献的第一步.md",
-    "10-TODO/20230215204904-游戏里的无线电很酷-手把手教你取得无线电执照-_百家争鸣-游民星空.md",
-    "10-TODO/20230218133648-Thread-by-apartovi-on-Thread-Reader-App-–-Thread-Reader-App.md",
-    "笔记/工具集.md",
-    "10-TODO/20221211000000-Tweet-Photo-got-acquired.md",
-    "10-TODO/20230215204456-Deployment-and-infrastructure-for-a-bootstrapped-webapp-with-150k-monthly-visits.md",
-    "10-TODO/20230104000000-Using-the-Monte-Carlo-Tree-Search-Algorithm-in-an-AI-to-Beat-2048-and-other-games.md",
-    "10-TODO/20230215202838-这名-业余-程序员-曾用50张1080Ti对抗癌症.md"
+    "10-TODO/20230315204248-5-years-of-Envoy-OSS.md",
+    "10-TODO/20230315204135-25-张图-一万字-拆解-Linux-网络包发送过程.md",
+    "10-TODO/20230315203955-The-U-S-city-of-the-future.md",
+    "10-TODO/20230315203705-Raft-is-so-fetch-The-Raft-Consensus-Algorithm-explained-through-Mean-Girls.md",
+    "10-TODO/20230315203341-另一个战场-俄罗斯金融市场和血筹.md",
+    "10-TODO/20230315203249-编程心智-一-——代码架构与系统架构.md",
+    "10-TODO/20230315203129-我做系统架构的一些原则.md",
+    "10-TODO/20230315202953-如何学习一门技术.md",
+    "10-TODO/20230315202214-国际化与本地化.md",
+    "10-TODO/20230227204502-做了10年开源项目-我总结出这10个经验_IT新闻_博客园.md"
   ]
 }
