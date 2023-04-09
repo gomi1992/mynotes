@@ -1,0 +1,18 @@
+{
+  "token": "eyJhcHBJZCI6MjAsImFwcEtleSI6InZpNm9yZzB4a2NhMTFmaXIyYTd6bzk4IiwiYXBwU2VjcmV0IjoiVjRaWEJGTWdKeWdzWkU4bSIsImV4IjoiIn0=.b092666e255dbbb72707802e68d0c616",
+  "wuCaiDir": "WuCai",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "refreshNotes": true,
+  "notesToRefresh": [],
+  "notesPathIdsMap": {},
+  "notesIdsPathMap": {},
+  "reimportShowConfirmation": true,
+  "lastCursor": {
+    "lastId": 0,
+    "lastHighlightPKID": 376824,
+    "lastTime": 0
+  }
+}

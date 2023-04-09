@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77bb16e863efc835",
+        "id": "180ed2f2fec25c96",
         "type": "tabs",
         "children": [
           {
-            "id": "991d660cd207d7ce",
+            "id": "6ceeda5945e6e00f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/工具集.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/工具集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/工具集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "笔记/工具集.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,8 +139,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-file-cleaner:Clean files": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -157,11 +147,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "991d660cd207d7ce",
+  "active": "280cdf773d552fe6",
   "lastOpenFiles": [
+    "WuCai/2023/04/wucai-2023-04-09-1212-H83ECE7.md",
+    "WuCai/2023/04",
+    "WuCai/2023",
+    "WuCai",
+    "笔记/工具集.md",
     "10-TODO/20230315204248-5-years-of-Envoy-OSS.md",
     "10-TODO/20230315204135-25-张图-一万字-拆解-Linux-网络包发送过程.md",
     "10-TODO/20230315203955-The-U-S-city-of-the-future.md",
