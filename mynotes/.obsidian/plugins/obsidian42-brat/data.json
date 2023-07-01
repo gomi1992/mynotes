@@ -1,5 +1,7 @@
 {
   "pluginList": [
+    "stefanopagliari/bibnotes",
+    "Yaozhuwa/easy-typing-obsidian",
     "makediff/obsidian-wucai"
   ],
   "pluginSubListFrozenVersion": [],

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54f35d7e8bf68ffa",
+        "id": "a1ba76e1a4898986",
         "type": "tabs",
         "children": [
           {
-            "id": "b2a0e2eae62f083e",
+            "id": "6734cdaa6ee9421b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -58,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fe33076263f1b97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -128,6 +136,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "7391f271a9f40454",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -153,8 +169,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b2a0e2eae62f083e",
+  "active": "280cdf773d552fe6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-06-22 16.22.02.excalidraw.md",
+    "笔记/项目笔记/202206 webkettle/202206252222 kettle中日志模块的设计.md",
+    "笔记/文献笔记/202207252100 游戏开发者与发行商.md",
+    "笔记/项目笔记/其他/202306291017 exsi及vcenter使用注意事项.md",
+    "90-科研笔记/@fengqian2021-jiyudianlixitongdeshixushujukufenxiyuyanjiu.md",
+    "90-科研笔记/@FengQianJiYuDianLiXiTongDeShiXuShuJuKuFenXiYuYanJiu2021.md",
+    "90-科研笔记/我的文库.json",
+    "90-科研笔记",
+    "新建文件夹",
+    "Untitled.canvas",
+    "Excalidraw",
     "笔记/工具集.md",
     "WuCai/2023/04/wucai-2023-04-09-1212-H83ECE7.md",
     "WuCai/2023/04",
