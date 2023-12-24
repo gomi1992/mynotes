@@ -4,7 +4,8 @@ url: http://vstrong.info/2012/09/13/how-to-enable-or-disable-lockdown-mode-on-vm
 clipped_at: 2023-12-24 10:41:15
 category: default
 tags: 
- - 无
+ - EXSI
+ - lockdown
 ---
 
 # HOW TO: Enable or Disable Lockdown Mode on VMware vSphere ESXi host
