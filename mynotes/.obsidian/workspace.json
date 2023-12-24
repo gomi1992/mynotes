@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a1ba76e1a4898986",
+        "id": "88ac483e1e680c41",
         "type": "tabs",
         "children": [
           {
-            "id": "6734cdaa6ee9421b",
+            "id": "5dd89b73657ee26e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -171,6 +171,14 @@
   },
   "active": "280cdf773d552fe6",
   "lastOpenFiles": [
+    "99-Attachment/assets/1703385675-d607d4e8381d1400354ae8dfdf180ea3.jpg",
+    "99-Attachment/assets/1703385675-c8c8e6f9170d8e96c0f2fadf09e5db34.jpg",
+    "10-TODO/20231224104115-HOW-TO-Enable-or-Disable-Lockdown-Mode-on-VMware-vSphere-ESXi-host.md",
+    "HOW TO Enable or Disable Lockdown Mode on VMware vSphere ESXi host  vStrong.info.md",
+    "笔记/工具集.md",
+    "笔记/202311020849 美团面试：接口被恶意狂刷，怎么办？ 时间戳小技巧.md",
+    "笔记/永久笔记/2021归档/202110171917 自家网络配置.md",
+    "笔记/永久笔记/202310102004 穿越机案例反思.md",
     "Excalidraw/Drawing 2023-06-22 16.22.02.excalidraw.md",
     "笔记/项目笔记/202206 webkettle/202206252222 kettle中日志模块的设计.md",
     "笔记/文献笔记/202207252100 游戏开发者与发行商.md",
@@ -182,7 +190,6 @@
     "新建文件夹",
     "Untitled.canvas",
     "Excalidraw",
-    "笔记/工具集.md",
     "WuCai/2023/04/wucai-2023-04-09-1212-H83ECE7.md",
     "WuCai/2023/04",
     "WuCai/2023",
