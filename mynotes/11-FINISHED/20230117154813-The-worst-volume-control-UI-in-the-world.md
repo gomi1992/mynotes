@@ -2,9 +2,11 @@
 title: The worst volume control UI in the world
 url: https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950
 clipped_at: 2023-01-17 15:48:13
-category: default
-tags: 
- - 无
+category: 设计
+tags:
+  - 设计
+  - 奇葩
+  - 音量控制
 ---
 
 [
