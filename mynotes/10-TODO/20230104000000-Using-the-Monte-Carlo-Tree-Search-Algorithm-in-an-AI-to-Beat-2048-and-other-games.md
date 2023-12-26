@@ -3,8 +3,8 @@ title: Using the Monte Carlo Tree Search Algorithm in an AI to Beat 2048 (and ot
 url: https://gabrielromualdo.com/articles/2020-09-12-using-the-monte-carlo-tree-search-algorithm-in-an-ai-to-beat-2048-and-other-games
 clipped_at: 2023-01-04 19:08:00
 category: default
-tags: 
- - 无
+tags:
+  - 蒙特卡洛搜索
 ---
 
 # Using the Monte Carlo Tree Search Algorithm in an AI to Beat 2048 (and other games)
