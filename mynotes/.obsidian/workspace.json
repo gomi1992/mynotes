@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88ac483e1e680c41",
+        "id": "bc94b0b3b26846c8",
         "type": "tabs",
         "children": [
           {
-            "id": "5dd89b73657ee26e",
+            "id": "eb923d75c48738fa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,7 +155,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-file-cleaner:Clean files": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,18 +163,39 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-file-cleaner:Clean files": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "280cdf773d552fe6",
+  "active": "eb923d75c48738fa",
   "lastOpenFiles": [
-    "99-Attachment/assets/1703385675-d607d4e8381d1400354ae8dfdf180ea3.jpg",
-    "99-Attachment/assets/1703385675-c8c8e6f9170d8e96c0f2fadf09e5db34.jpg",
+    "笔记/工具集.md",
+    "笔记/永久笔记/202310111710  洪峰老师与树莓派的案例.md",
+    "99-Attachment/Pasted image 20221121202417.png",
+    "笔记/永久笔记/202312311248 湖工大民主测评反思.md",
+    "笔记/永久笔记/202311020849 美团面试：接口被恶意狂刷，怎么办？ 时间戳小技巧.md",
+    "99-Attachment/assets/1704003099-fcbe4256ee0445a6e3e871ba3ff6ae12.png",
+    "99-Attachment/assets/1704003099-f04bf8d77fe0c27a6a82eb8a3e50fe5f.png",
+    "99-Attachment/assets/1704003099-ed00f43dd0b10735233732694d28bfb2.gif",
+    "99-Attachment/assets/1704003099-eb42baba4806397d63891d81b4b76407.png",
+    "99-Attachment/assets/1704003099-e84edbb1b5d4e01864845dc5f275502c.jpg",
+    "99-Attachment/assets/1704003099-e75f236011b3b562090203defd8e061f.png",
+    "99-Attachment/assets/1704003099-d2c85d57df269298d25fa162d0177efc.jpeg",
+    "99-Attachment/assets/1704003099-cf541e8f4bc347a6fe97c36b103f452a.png",
+    "99-Attachment/assets/1704003099-bf047f65b4b59b546af2622647a55908.gif",
+    "10-TODO/20231231141139-2023硬件设计开源盛宴-一年一度的hackaday大赛结束-冠军机电可刷新盲文模组-共提交287个电子作品-奖金池15万美元-STM32H7-硬汉嵌入式论坛-Powered-by-Discuz.md",
+    "11-FINISHED/20230117154813-The-worst-volume-control-UI-in-the-world.md",
+    "10-TODO/20230113144403-中文编程不如英文香-今年诞生的这些国产编程语言表示不服_IT新闻_博客园.md",
+    "11-FINISHED/20230113160640-如何在中国乡村-上一个有尊严的厕所.md",
+    "11-FINISHED/20230104191000-蒙特卡洛树搜索-以蛮力对抗智慧.md",
+    "10-TODO/20230104000000-Using-the-Monte-Carlo-Tree-Search-Algorithm-in-an-AI-to-Beat-2048-and-other-games.md",
+    "11-FINISHED/20230104195952-Android-USB转串口通信.md",
+    "11-FINISHED/20230104192000-周刊第八期-如何应对公开错误.md",
+    "10-TODO/20221211000000-Tweet-Photo-got-acquired.md",
     "10-TODO/20231224104115-HOW-TO-Enable-or-Disable-Lockdown-Mode-on-VMware-vSphere-ESXi-host.md",
     "HOW TO Enable or Disable Lockdown Mode on VMware vSphere ESXi host  vStrong.info.md",
-    "笔记/工具集.md",
     "笔记/202311020849 美团面试：接口被恶意狂刷，怎么办？ 时间戳小技巧.md",
     "笔记/永久笔记/2021归档/202110171917 自家网络配置.md",
     "笔记/永久笔记/202310102004 穿越机案例反思.md",
@@ -194,15 +214,6 @@
     "WuCai/2023/04",
     "WuCai/2023",
     "WuCai",
-    "10-TODO/20230315204248-5-years-of-Envoy-OSS.md",
-    "10-TODO/20230315204135-25-张图-一万字-拆解-Linux-网络包发送过程.md",
-    "10-TODO/20230315203955-The-U-S-city-of-the-future.md",
-    "10-TODO/20230315203705-Raft-is-so-fetch-The-Raft-Consensus-Algorithm-explained-through-Mean-Girls.md",
-    "10-TODO/20230315203341-另一个战场-俄罗斯金融市场和血筹.md",
-    "10-TODO/20230315203249-编程心智-一-——代码架构与系统架构.md",
-    "10-TODO/20230315203129-我做系统架构的一些原则.md",
-    "10-TODO/20230315202953-如何学习一门技术.md",
-    "10-TODO/20230315202214-国际化与本地化.md",
-    "10-TODO/20230227204502-做了10年开源项目-我总结出这10个经验_IT新闻_博客园.md"
+    "10-TODO/20230315204248-5-years-of-Envoy-OSS.md"
   ]
 }
